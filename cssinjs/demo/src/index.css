@@ -1,0 +1,13 @@
+:root {
+    --color-primary: #f9f9f9;
+    --color-bg-primary: #080808;
+    --font-size-h1: 3.2em;
+    --gap: 1.5em;
+    --padding: 4px;
+    --margin: 8px;
+
+    --padding-small: 8px;
+    --padding-medium: 12px;
+    --padding-large: 16px
+
+}
